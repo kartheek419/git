@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-04T03:45:54Z" name="Default suite" finished-at="2020-05-04T03:46:19Z" duration-ms="24179">
+    <groups>
+    </groups>
+    <test started-at="2020-05-04T03:45:54Z" name="Default test" finished-at="2020-05-04T03:46:19Z" duration-ms="24179">
+      <class name="com.testscripts.validation">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.testscripts.validation@587e5365]" started-at="2020-05-04T03:45:54Z" name="configBC" finished-at="2020-05-04T03:46:07Z" duration-ms="13084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.testscripts.validation@587e5365]" started-at="2020-05-04T03:46:07Z" name="configBM" finished-at="2020-05-04T03:46:07Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="validatefield()[pri:0, instance:com.testscripts.validation@587e5365]" started-at="2020-05-04T03:46:07Z" name="validatefield" finished-at="2020-05-04T03:46:18Z" duration-ms="10105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatefield -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.testscripts.validation@587e5365]" started-at="2020-05-04T03:46:18Z" name="configAM" finished-at="2020-05-04T03:46:18Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.testscripts.validation@587e5365]" started-at="2020-05-04T03:46:18Z" name="configAC" finished-at="2020-05-04T03:46:19Z" duration-ms="941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.testscripts.validation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
